@@ -269,6 +269,62 @@
            left: 157px;
           
           }
+          #recet2
+          {
+            position: absolute;
+            top: 714px;
+            left: 157px;
+          
+      
+          }
+          #recet3
+          {
+            position: absolute;
+            top: 1048px;
+            left: 157px;
+          
+      
+          }
+          #recet4
+          {
+            position: absolute;
+            top: 1388px;
+            left: 157px;
+            
+      
+          }
+          #recet5
+          {
+            position: absolute;
+            top: 1388px;
+            left: 517px;
+           
+      
+          }
+          #recet6
+          {
+            position: absolute;
+            top: 1048px;
+            left: 517px;
+            
+          }
+          #recet7
+          {
+            position: absolute;
+            top: 714px;
+            left: 517px;
+           
+      
+            
+          }
+          #recet8
+          {
+            position: absolute;
+            top: 376px;
+            left: 517px;
+           
+      
+          }
 
 
 }
@@ -364,6 +420,7 @@
      .imagen1
      {
       position: absolute;
+      left: 57px;
       top: 80px;
       backface-visibility: hidden;
       transition: 1s;
@@ -374,7 +431,7 @@
      {
      position: absolute;
       top: 80px;
-      left: 350px;
+      left: 450px;
       backface-visibility: hidden;
       transition: 1s;
       z-index: 2;
@@ -383,6 +440,7 @@
      {
       position: absolute;
       top: 415px;
+      left: 57px;
       backface-visibility: hidden;
       transition: 1s;
       z-index: 2;
@@ -391,7 +449,7 @@
      {
       position: absolute;
       top: 415px;
-      left: 350px;
+      left: 450px;
       backface-visibility: hidden;
       transition: 1s;
       z-index: 2;
@@ -400,6 +458,7 @@
      {
       position: absolute;
       top: 747px;
+      left: 57px;
       backface-visibility: hidden;
       transition: 1s;
       z-index: 2;
@@ -407,7 +466,7 @@
      .imagen6
      {
       position: absolute;
-      left: 350px;
+      left: 450px;
       top:745px;
       backface-visibility: hidden;
       transition: 1s;
@@ -417,6 +476,7 @@
      {
       position: absolute;
       top: 1085px;
+      left: 57px;
       backface-visibility: hidden;
       transition: 1s;
       z-index: 2;
@@ -426,7 +486,7 @@
      {
       position: absolute;
       top: 1085px;
-      left: 350px;
+      left: 450px;
       backface-visibility: hidden;
       transition: 1s;
       z-index: 2;
@@ -447,7 +507,7 @@
     {
      position: absolute;
      top: 80px;
-     left: 400px;
+     left: 450px;
      transform: rotateY(180deg);
      transition: 1s;
      z-index: 1;
@@ -467,7 +527,7 @@
     {
      position: absolute;
      top: 415px;
-     left: 400px;
+     left: 450px;
      transform: rotateY(180deg);
      transition: 1s;
      z-index: 1;
@@ -484,7 +544,7 @@
     .imagenH6
     {
      position: absolute;
-     left: 400px;
+    left: 450px;
      top:745px;
      transform: rotateY(180deg);
      transition: 1s;
@@ -502,7 +562,7 @@
     .imagenH8
     {
      position: absolute;
-     left: 400px;
+      left: 450px;
      top: 1085px;
      transform: rotateY(180deg);
      transition: 1s;
@@ -562,14 +622,14 @@
      {
       position: absolute;
       top: 376px;
-      left: 157px;
+      left: 178px;
      
      }
      #recet2
     {
       position: absolute;
       top: 714px;
-      left: 157px;
+      left: 178px;
     
 
     }
@@ -577,7 +637,7 @@
     {
       position: absolute;
       top: 1048px;
-      left: 157px;
+      left: 178px;
     
 
     }
@@ -585,7 +645,7 @@
     {
       position: absolute;
       top: 1388px;
-      left: 157px;
+      left: 178px;
       
 
     }
@@ -593,7 +653,7 @@
     {
       position: absolute;
       top: 1388px;
-      left: 517px;
+      left: 590px;
      
 
     }
@@ -601,14 +661,14 @@
     {
       position: absolute;
       top: 1048px;
-      left: 517px;
+      left: 590px;
       
     }
     #recet7
     {
       position: absolute;
       top: 714px;
-      left: 517px;
+      left: 590px;
      
 
       
@@ -617,7 +677,7 @@
     {
       position: absolute;
       top: 376px;
-      left: 517px;
+      left: 590px;
      
 
     }
